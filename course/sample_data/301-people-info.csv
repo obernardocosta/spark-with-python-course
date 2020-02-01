@@ -1,4 +1,4 @@
-name,surname,street,city,state,zipcode,sallary
+name,surname,street,city,state,postalcode,salary
 John,Doe,120 jefferson st.,Riverside,NJ,08075,10000
 Jack,McGinnis,220 hobo Av.,Phila,PA,09119,18900
 John Da Man,Repici,120 Jefferson St.,Riverside,NJ,08075,32100
